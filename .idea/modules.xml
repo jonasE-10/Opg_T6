@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Opg_T6.iml" filepath="$PROJECT_DIR$/.idea/Opg_T6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Opg_T6_java/Opg_T6_java.iml" filepath="$PROJECT_DIR$/Opg_T6_java/Opg_T6_java.iml" />
+    </modules>
+  </component>
+</project>
